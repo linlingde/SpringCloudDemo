@@ -1,0 +1,5 @@
+# Project exclude paths
+/spring-cloud-study-parent/spring-cloud-common/target/
+/spring-cloud-study-parent/spring-cloud-consumer/target/
+/spring-cloud-study-parent/spring-cloud-eureka/target/
+/spring-cloud-study-parent/spring-cloud-provider/target/
